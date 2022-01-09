@@ -114,7 +114,8 @@ TestGraphAlgo: test class GraphAlgo.
 ### Import libraries:
 Pygame
 
-![video_git](https://user-images.githubusercontent.com/93534494/148701980-714d43c5-9330-479b-88e3-fcf971dbd20f.gif)
+
+![video_git](https://user-images.githubusercontent.com/93534494/148702620-9a275f0b-0792-4b5d-b1ea-603198958bc6.gif)
 
 
 
