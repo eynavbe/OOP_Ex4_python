@@ -106,9 +106,6 @@ TestDiGraph: test class DiGraph.
 TestGraphAlgo: test class GraphAlgo.
 
 
-### How the main functions in the algorithm – “shortestPath” work:
-shortest_path - Goes through all the pathes that are from the source to the destination. And returns the path with the lowest weight. Use dijkstra algorithm. (https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm).
-
 ### How to download, run and use the graphical interface:
 •	To run the gui run you need to call the class ie: "GraphView ()"
 •	The updated information is indicated at the top
